@@ -37,4 +37,7 @@ The project uses pthread library for thread management and synchronization. Plea
 
 ## Acknowledgments
 This project was inspired by the classic producer-consumer problem and aims to provide a practical simulation of the system. Special thanks to the authors of the pthread library for their valuable contributions.
-The project also utilizes code examples and concepts from [`ostep-code`](#https://github.com/remzi-arpacidusseau/ostep-code) repository, which provides a collection of code samples and exercises related to the Operating Systems: Three Easy Pieces book.
+The project also utilizes code examples and concepts from [`ostep-code`](https://github.com/remzi-arpacidusseau/ostep-code) repository, which provides a collection of code samples and exercises related to the Operating Systems: Three Easy Pieces book.
+
+### Instructor
+- [`Dr. Thanapon Noraset`](https://northanapon.github.io/): Instructor for the course and provided guidance throughout the project.

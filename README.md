@@ -1,7 +1,4 @@
 # Async Workers : Synchronization in Multi-threaded Programs
-> This project is a part of ITCS343 Principles of Operating Systems, Faculty of Information and Communication Technology, Mahidol University
-  
-
 A simulation of a producer-consumer system implemented in C. The system consists of multiple producers and consumers that interact through a shared buffer. The simulation allows for different actions when the buffer is full: wait, drop, or replace.
 
 
